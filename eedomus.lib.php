@@ -4,6 +4,17 @@
 http://doc.eedomus.com/view/Scripts#Scripts_.22Objets_connect.C3.A9s.22
 
 script cree par twitter:@Havok pour la eedomus
+27/03/22 : Fonctions emulées crées par Havok
+           getArg
+           getValue
+           httpQuery
+           jsonToXML
+           loadVariable
+           saveVariable
+           sdk_get_input() //a vérifier
+           sdk_json_decode
+           xpath
+27/03/22 : Espace de travail pour rajout des fonctions d'émulation developpées par Dommarion et Merguez07
 ****************************************************************/
 
 /*** remplacez ***/
